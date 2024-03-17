@@ -71,9 +71,8 @@ Participei da Formação Java Developer da DIO, onde aprendi desde os fundamento
 
 ## <a name="apresentacao"> Apresentação </a>
 
+A formação em Desenvolvedor Java oferece uma jornada completa desde os fundamentos até as técnicas avançadas da linguagem. Ministrado pelos melhores especialistas da DIO, o curso começa com uma imersão nos princípios do Java e da Programação Orientada a Objetos (POO), capacitando os alunos desde o básico até o uso de abstrações poderosas como o Spring Framework. Com pré-requisitos de conhecimentos básicos em Lógica de Programação e Pensamento Computacional, os participantes são desafiados com atividades práticas, incluindo desafios de código e projetos, para aplicar os conhecimentos adquiridos e construir um portfólio sólido. Com uma variedade de módulos abrangendo desde a sintaxe Java até o gerenciamento de dependências e construção de projetos com Maven e Gradle, os alunos estão preparados para enfrentar projetos mais robustos e complexos, capacitando-se para uma carreira de sucesso como desenvolvedores Java.
 
-    A formação em Desenvolvedor Java oferece uma jornada completa desde os fundamentos até as técnicas avançadas da linguagem. Ministrado pelos melhores especialistas da DIO, o curso começa com uma imersão nos princípios do Java e da Programação Orientada a Objetos (POO), capacitando os alunos desde o básico até o uso de abstrações poderosas como o Spring Framework. Com pré-requisitos de conhecimentos básicos em Lógica de Programação e Pensamento Computacional, os participantes são desafiados com atividades práticas, incluindo desafios de código e projetos, para aplicar os conhecimentos adquiridos e construir um portfólio sólido. Com uma variedade de módulos abrangendo desde a sintaxe Java até o gerenciamento de dependências e construção de projetos com Maven e Gradle, os alunos estão preparados para enfrentar projetos mais robustos e complexos, capacitando-se para uma carreira de sucesso como desenvolvedores Java.
-    
 ## <a name="fundamentos-da-plataforma-java"> Fundamentos da Plataforma Java </a>
 
 ### <a name="introdução-à-plataforma-java"> Introdução à Plataforma Java </a>  
