@@ -12,16 +12,12 @@ Participei da Formação Java Developer da DIO, onde aprendi desde os fundamento
 - [Instrutores](#instrutor)
 - [Apresentação](#apresentacao)
 - [Fundamentos da Plataforma Java](#fundamentos-da-plataforma-java)
-<details>
-  <summary>Mais detalhes</summary>  
     - [Introdução à Plataforma Java](#introdução-à-plataforma-java)
     - [Ambiente de Desenvolvimento Java](#ambiente-de-desenvolvimento-java)
     - [Aprendendo a Sintaxe Java](#aprendendo-a-sintaxe-java)
     - [Resolvendo desafios - Fundamentos da Linguagem de Programação Java](#resolvendo-desafios---fundamentos-da-linguagem-de-programação-java)
     - [Simulando Uma Conta Bancária Através Do Terminal/Console](#simulando-uma-conta-bancária-através-do-terminalconsole)
-    - [Materiais Complementares - Fundamentos de Java](#materiais-complementares---fundamentos-de-java)  
-</details>
-
+    - [Materiais Complementares - Fundamentos de Java](#materiais-complementares---fundamentos-de-java)
 - [Escopo e Estruturas de Controle em Java](#escopo-e-estruturas-de-controle-em-java)
     - [Introdução e Estruturas Condicionais com Java](#introdução-e-estruturas-condicionais-com-java)
     - [Estruturas de Repetição em Java](#estruturas-de-repetição-em-java)
