@@ -127,6 +127,8 @@ Resumindo, configurar o ambiente de desenvolvimento para Java envolve instalar o
 ### <a name="aprendendo-a-sintaxe-java"> Aprendendo a Sintaxe Java </a>
 
 - [x] [Aprendendo a Sintaxe Java]
+
+
 Olá pessoal! Sejam todos bem-vindos ao nosso curso sobre Java básico! Aqui, compartilharei minha experiência e as práticas que aprendi ao longo do curso.
 
 Na segunda etapa deste curso, mergulhamos na sintaxe da linguagem Java, explorando as regras essenciais para escrever códigos de forma eficiente e compreender os pré-requisitos necessários, como a instalação do JDK e a escolha de uma IDE.
