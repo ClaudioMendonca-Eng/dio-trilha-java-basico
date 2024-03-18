@@ -104,6 +104,8 @@ Em resumo, Java é uma linguagem de programação poderosa, versátil e amplamen
 ### <a name="ambiente-de-desenvolvimento-java"> Ambiente de Desenvolvimento Java </a>
 
 - [x] [Ambiente de Desenvolvimento Java]
+
+
 Depois de concluir o curso de Java Básico, agora posso explicar como configurar o ambiente de desenvolvimento para começar a programar em Java.
 
 O primeiro passo é garantir que o JDK (Java Development Kit) esteja instalado no nosso sistema. Isso é essencial para podermos compilar e executar programas Java. Ao instalar o JDK, é importante verificar se estamos utilizando a versão correta de acordo com os requisitos do projeto.
