@@ -163,7 +163,7 @@ Ao longo das aulas, pude praticar exemplos e exercícios, recebendo dicas valios
 
 Agora, estou confiante em minha capacidade de desenvolver programas em Java, utilizando tipos e variáveis de forma eficiente e seguindo as melhores práticas da linguagem. Estou ansioso para continuar explorando temas mais avançados nos próximos cursos.
 
-- Arquivo de teste [Aprendendo a Sintaxe Java](tipos-variaveis/src/TiposVariaveis.java)
+- Arquivo de teste [Aprendendo a Sintaxe Java](aprendendo-a-sintaxe/src/TiposVariaveis.java)
 
 Operadores:
 Logo no início do curso, aprendi sobre os operadores de atribuição, que são essenciais para definir e atualizar valores de variáveis. Descobri como usar o operador "=" para iniciar ou modificar o valor de uma variável, seja ela do tipo numérico ou de texto. Além disso, exploramos os operadores aritméticos, que são fundamentais para realizar cálculos matemáticos, como adição, subtração, multiplicação e divisão.
@@ -178,7 +178,7 @@ Por fim, mergulhamos nos operadores lógicos, que são essenciais para combinar 
 
 Ao longo do curso, pude praticar e experimentar cada conceito aprendido, o que me ajudou a consolidar meu entendimento e me tornar mais confiante em usar operadores em meus próprios projetos de programação.
 
-- Arquivo de teste [Operadores](tipos-variaveis/src/Operadores.java)
+- Arquivo de teste [Operadores](aprendendo-a-sintaxe/src/Operadores.java)
 
 
 ### <a name="resolvendo-desafios---fundamentos-da-linguagem-de-programação-java"> Resolvendo desafios - Fundamentos da Linguagem de Programação Java </a>
