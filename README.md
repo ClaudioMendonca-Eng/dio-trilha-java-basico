@@ -34,7 +34,7 @@
 
 - [Gleyson Sampaio](https://github.com/glysns) - Desenvolvedor de Software e Instrutor Dio: Apaixonado por programação, nômade digital. Gosto de games, séries, viajar, trilhas, bike, vinhos, arriscar na cozinha e detonar no GOW e SC2
 
-## <a name="apresentacao"> Apresentação </a> [**Voltar ao Topo**](#topo)
+## <a name="apresentacao"> Apresentação </a>
 
 O curso "Fundamentos da Plataforma Java" me proporcionou uma imersão abrangente no universo da programação Java, desde conceitos básicos até aspectos mais avançados da linguagem. Ao longo do curso, explorei a sintaxe de Java, compreendi a importância do ambiente de desenvolvimento e dominei tópicos essenciais como tipos e variáveis, operadores, métodos e escopo de variáveis. Além disso, aprendi sobre palavras reservadas, documentação em Java e interação com programas via terminal, expandindo minhas habilidades e preparando-me para desenvolver aplicativos Java robustos e eficientes.
 
@@ -42,7 +42,10 @@ Com uma base sólida estabelecida durante o curso, estou agora equipado para con
 
 ## <a name="fundamentos-da-plataforma-java"> Fundamentos da Plataforma Java </a>
 
-### <a name="introdução-à-plataforma-java"> Introdução à Plataforma Java </a>  [**Voltar ao Topo**](#topo)
+### <a name="introdução-à-plataforma-java"> Introdução à Plataforma Java </a>
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
 
 - [x] [Introdução à Plataforma Java]
 
@@ -224,7 +227,8 @@ public class Conta {
 
 Ao entender o escopo de variáveis, pude criar algoritmos mais eficientes e evitar falhas estruturais nos programas que desenvolvo. Estou empolgado para continuar explorando esse tema em exercícios e exemplos futuros, e espero poder compartilhar mais aprendizados em nossa jornada de aprendizado juntos.
 
-### <a name="palavras-reservadas"> Palavras reservadas </a> [**Voltar ao Topo**](#topo)
+### <a name="palavras-reservadas"> Palavras reservadas </a>
+ [**Voltar ao Topo**](#topo)
 
 minha compreensão sobre as palavras reservadas da linguagem Java foi aprimorada significativamente. Agora consigo perceber a importância dessas palavras e sua real finalidade na programação.
 
