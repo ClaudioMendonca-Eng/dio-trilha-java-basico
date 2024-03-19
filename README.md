@@ -10,7 +10,7 @@
 </div>
 
 ## Índice
-[**Voltar ao Topo**](#topo)
+<a id="topo"></a>
 
 - [Instrutores](#instrutor)
 - [Apresentação](#apresentacao)
@@ -34,7 +34,7 @@
 
 - [Gleyson Sampaio](https://github.com/glysns) - Desenvolvedor de Software e Instrutor Dio: Apaixonado por programação, nômade digital. Gosto de games, séries, viajar, trilhas, bike, vinhos, arriscar na cozinha e detonar no GOW e SC2
 
-## <a name="apresentacao"> Apresentação </a>
+## <a name="apresentacao"> Apresentação </a> [**Voltar ao Topo**](#topo)
 
 O curso "Fundamentos da Plataforma Java" me proporcionou uma imersão abrangente no universo da programação Java, desde conceitos básicos até aspectos mais avançados da linguagem. Ao longo do curso, explorei a sintaxe de Java, compreendi a importância do ambiente de desenvolvimento e dominei tópicos essenciais como tipos e variáveis, operadores, métodos e escopo de variáveis. Além disso, aprendi sobre palavras reservadas, documentação em Java e interação com programas via terminal, expandindo minhas habilidades e preparando-me para desenvolver aplicativos Java robustos e eficientes.
 
@@ -42,7 +42,7 @@ Com uma base sólida estabelecida durante o curso, estou agora equipado para con
 
 ## <a name="fundamentos-da-plataforma-java"> Fundamentos da Plataforma Java </a>
 
-### <a name="introdução-à-plataforma-java"> Introdução à Plataforma Java </a>  
+### <a name="introdução-à-plataforma-java"> Introdução à Plataforma Java </a>  [**Voltar ao Topo**](#topo)
 
 - [x] [Introdução à Plataforma Java]
 
@@ -68,8 +68,7 @@ Por fim, o processo de desenvolvimento em Java envolve a escrita de código-font
 
 Em resumo, Java é uma linguagem de programação poderosa, versátil e amplamente adotada, com uma longa história de evolução e inovação contínua. A compreensão de seus conceitos e recursos é essencial para qualquer desenvolvedor que deseje entrar no mundo da programação orientada a objetos e desenvolvimento de software multiplataforma.
 
-### <a name="ambiente-de-desenvolvimento-java"> Ambiente de Desenvolvimento Java </a>
-<a id="topo"></a>
+### <a name="ambiente-de-desenvolvimento-java"> Ambiente de Desenvolvimento Java </a> [**Voltar ao Topo**](#topo)
 
 - [x] [Ambiente de Desenvolvimento Java]
 
@@ -93,8 +92,7 @@ Além disso, é importante entender o que são workspaces, definir a JDK na IDE 
 
 Resumindo, configurar o ambiente de desenvolvimento para Java envolve instalar o JDK, escolher a IDE adequada e explorar seus recursos para aumentar nossa produtividade ao programar em Java.
 
-### <a name="aprendendo-a-sintaxe-java"> Aprendendo a Sintaxe Java </a>
-<a id="topo"></a>
+### <a name="aprendendo-a-sintaxe-java"> Aprendendo a Sintaxe Java </a> [**Voltar ao Topo**](#topo)
 
 - [x] [Aprendendo a Sintaxe Java]
 
@@ -102,7 +100,7 @@ Olá pessoal! Sejam todos bem-vindos ao nosso curso sobre Java básico! Aqui, co
 
 Na segunda etapa deste curso, mergulhamos na sintaxe da linguagem Java, explorando as regras essenciais para escrever códigos de forma eficiente e compreender os pré-requisitos necessários, como a instalação do JDK e a escolha de uma IDE.
 
-### <a name="anatomia-das-classes"> Anatomia das Classes </a>
+### <a name="anatomia-das-classes"> Anatomia das Classes </a> [**Voltar ao Topo**](#topo)
 
 Durante essa jornada, aprendi que a anatomia da classe é fundamental para compreender a estrutura inicial dos códigos. Aprendi como iniciar e encerrar instruções, a importância da identação e como organizar arquivos em pacotes para uma gestão de projetos mais eficiente.
 
@@ -118,7 +116,7 @@ Além disso, aprendi a utilizar pacotes para organizar meus projetos de forma hi
 
 Java Beans, por sua vez, trouxe uma nova perspectiva sobre como estruturar meus códigos de forma mais coesa e compreensível, visando uma melhor colaboração em equipe e uma manutenção mais eficiente no futuro.
 
-### <a name="tipos-e-variáveis"> Tipos e Variáveis </a>
+### <a name="tipos-e-variáveis"> Tipos e Variáveis </a> [**Voltar ao Topo**](#topo)
 
 Durante o Curso Didático de Java Básico, promovido pela Digital, mergulhei fundo no universo do Java, explorando tipos e variáveis com foco na codificação. Ao longo dessa jornada de aprendizado, adquiri habilidades fundamentais para o desenvolvimento em Java.
 
@@ -134,7 +132,7 @@ Agora, estou confiante em minha capacidade de desenvolver programas em Java, uti
 
 - Arquivo de teste [Aprendendo a Sintaxe Java](aprendendo-a-sintaxe/src/TiposVariaveis.java)
 
-### <a name="peradores"> Operadores </a>
+### <a name="peradores"> Operadores </a>    [**Voltar ao Topo**](#topo)
 
 Logo no início do curso, aprendi sobre os operadores de atribuição, que são essenciais para definir e atualizar valores de variáveis. Descobri como usar o operador "=" para iniciar ou modificar o valor de uma variável, seja ela do tipo numérico ou de texto. Além disso, exploramos os operadores aritméticos, que são fundamentais para realizar cálculos matemáticos, como adição, subtração, multiplicação e divisão.
 
@@ -150,7 +148,7 @@ Ao longo do curso, pude praticar e experimentar cada conceito aprendido, o que m
 
 - Arquivo de teste [Operadores](aprendendo-a-sintaxe/src/Operadores.java)
 
-### <a name="métodos"> Métodos </a>
+### <a name="métodos"> Métodos </a> [**Voltar ao Topo**](#topo)
 
 No curso, aprendemos sobre a syntax de Java, com foco especial em métodos, dentro do contexto do Java básico. O objetivo principal era entender como criar métodos, discutir sobre parâmetros e visibilidade, o que é fundamental para a implementação eficaz de algoritmos.
 
@@ -175,7 +173,7 @@ Exercicios:
     - Arquivo do [Métodos SmartTv](metodo-sistema-smart-tv/src/SmartTv.java)
     - Arquivo do [Métodos Usuario](metodo-sistema-smart-tv/src/Usuario.java)
 
-### <a name="escopo-de-variáveis"> Escopo de Variáveis </a>
+### <a name="escopo-de-variáveis"> Escopo de Variáveis </a> [**Voltar ao Topo**](#topo)
 
 Esse conceito define onde as variáveis podem ser acessadas em um programa Java, impactando diretamente na eficiência e estruturação de nossas implementações.
 
@@ -191,8 +189,7 @@ Escopo de Bloco/Fluxo: Em contextos como loops e estruturas condicionais, as var
 
 Durante o curso, percebi a importância de compreender onde declarar variáveis para evitar erros e criar algoritmos mais claros. Por exemplo, em uma classe de gerenciamento de contas, o saldo seria uma variável de escopo de classe, enquanto o valor a ser sacado em um método específico seria uma variável local desse método.
 
-´´´java	
-
+```java
 public class Conta {
 	//variavel da classe conta
 	double saldo=10.0;
@@ -223,12 +220,11 @@ public class Conta {
 		return valorMontante;
 	}
 }
-
-´´´
+```
 
 Ao entender o escopo de variáveis, pude criar algoritmos mais eficientes e evitar falhas estruturais nos programas que desenvolvo. Estou empolgado para continuar explorando esse tema em exercícios e exemplos futuros, e espero poder compartilhar mais aprendizados em nossa jornada de aprendizado juntos.
 
-### <a name="palavras-reservadas"> Palavras reservadas </a>
+### <a name="palavras-reservadas"> Palavras reservadas </a> [**Voltar ao Topo**](#topo)
 
 minha compreensão sobre as palavras reservadas da linguagem Java foi aprimorada significativamente. Agora consigo perceber a importância dessas palavras e sua real finalidade na programação.
 
@@ -244,7 +240,7 @@ Outro aspecto importante que aprendi foi sobre a relação entre as palavras res
 
 Para consolidar meu aprendizado, pretendo praticar a classificação e o uso das palavras reservadas em exemplos reais e buscar referências adicionais para aprimorar meu conhecimento.
 
-### <a name="java-documentação"> Java Documentação </a>
+### <a name="java-documentação"> Java Documentação </a> [**Voltar ao Topo**](#topo)
 
 Aprendi a importância de adicionar comentários aos meus arquivos Java para melhorar a legibilidade e compreensão do código. Para isso, é essencial ter um diretório de projeto bem estruturado, integração com um kit de desenvolvimento Java e uma IDE configurada.
 
@@ -274,7 +270,7 @@ Um dos pontos altos do curso foi aprender a executar nossas aplicações passand
 No geral, este curso me proporcionou uma compreensão mais profunda de como interagir com programas Java através do terminal, ampliando minhas habilidades e tornando-me mais confiante na criação e execução de aplicativos Java. Mal posso esperar para explorar mais recursos da linguagem Java em meus projetos futuros!
 
 
-## <a name="considerações-finais"> Considerações Finais </a>
+## <a name="considerações-finais"> Considerações Finais </a>    [**Voltar ao Topo**](#topo)
 
 Ao concluir este curso de Desenvolvedor Java, fornecido pela DIO (Digital Innovation One), uma jornada emocionante e repleta de aprendizado se encerra. Sob a orientação do talentoso instrutor Gleyson Sampaio, mergulhamos nas profundezas da linguagem Java, desde seus fundamentos até técnicas avançadas, capacitando-nos para enfrentar desafios no mundo do desenvolvimento de software.
 
@@ -294,7 +290,7 @@ Agora, armados com um conjunto sólido de habilidades em Java, estamos prontos p
 
 Agradecemos ao instrutor Gleyson Sampaio por sua orientação e expertise, e à DIO por fornecer uma plataforma excepcional para aprendizado e crescimento profissional. Que possamos continuar aprendendo, explorando e prosperando em nossa jornada como desenvolvedores Java.
 
-## <a name="certificados"> Certificados </a>
+## <a name="certificados"> Certificados </a>    [**Voltar ao Topo**](#topo)
 
 ## Introdução à Plataforma Java
 ![](img/01_certificado_intr_platafoma_java.jpg)
@@ -305,7 +301,7 @@ Agradecemos ao instrutor Gleyson Sampaio por sua orientação e expertise, e à 
 ## Aprendendo a Sintaxe Java
 ![](img/03_certificado_aprendendo_sintaxe_java.jpg)
 
-## <a name="licença"> Licença </a>
+## <a name="licença"> Licença </a>  [**Voltar ao Topo**](#topo)
 
 <a href="https://www.buymeacoffee.com/claudiomendonca" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
