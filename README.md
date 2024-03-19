@@ -1,10 +1,16 @@
 # Dio Trilha Java Basico
-<table><tr><td valign="top" width="50%">
-![](img/logo.png)
-![](img/dio.png)
-</td><td valign="top" width="50%">
+
+<div style="display: flex; justify-content: center;">
+    <div style="margin-right: 20px;">
+        <img src="img/logo.png" alt="Logo">
+    </div>
+    <div style="margin-left: 20px;">
+        <img src="img/dio.png" alt="DIO">
+    </div>
+</div>
+
 Participei da Formação Java Developer da DIO, onde aprendi desde os fundamentos de Java até o uso avançado do Spring Framework. A imersão inicial abrangeu os princípios da linguagem e a Programação Orientada a Objetos. Nos módulos seguintes, aprofundei meu conhecimento e desenvolvi habilidades para projetos robustos. A formação incluiu desafios de código e projetos práticos para aplicar o aprendizado.
-</td>
+
 
 ## Tecnologias
 <div>
