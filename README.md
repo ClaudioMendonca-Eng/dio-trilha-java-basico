@@ -294,13 +294,13 @@ Agradecemos ao instrutor Gleyson Sampaio por sua orientação e expertise, e à 
 ## <a name="certificados"> Certificados </a>
 
 ## Introdução à Plataforma Java
-![](img/01_certificado_intr_platafoma_java)
+![](img/01_certificado_intr_platafoma_java.jpg)
 
 ## Ambiente de Desenvolvimento Java
-![](img/02_certificado_amb_desenvolvimento_java)
+![](img/02_certificado_amb_desenvolvimento_java.jpg)
 
 ## Aprendendo a Sintaxe Java
-![](img/03_certificado_aprendendo_sintaxe_java)
+![](img/03_certificado_aprendendo_sintaxe_java.jpg)
 
 ## <a name="licença"> Licença </a>
 
