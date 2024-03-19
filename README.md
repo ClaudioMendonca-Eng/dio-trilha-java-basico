@@ -180,6 +180,30 @@ Ao longo do curso, pude praticar e experimentar cada conceito aprendido, o que m
 
 - Arquivo de teste [Operadores](aprendendo-a-sintaxe/src/Operadores.java)
 
+Métodos:
+No curso, aprendemos sobre a syntax de Java, com foco especial em métodos, dentro do contexto do Java básico. O objetivo principal era entender como criar métodos, discutir sobre parâmetros e visibilidade, o que é fundamental para a implementação eficaz de algoritmos.
+
+Antes de mergulharmos nos conceitos, o instrutor destacou a importância de configurar adequadamente o ambiente de desenvolvimento, como o diretório do projeto, o Kit Hamp e uma IDE, para garantir alta produtividade durante as sessões.
+
+Aprendi que ao criar métodos, é crucial entender suas propostas e finalidades. Devemos considerar o tipo de retorno esperado, os parâmetros necessários e a visibilidade do método. Esses critérios são essenciais para garantir que nossos métodos sejam eficientes e compreensíveis.
+
+Durante o curso, também exploramos exemplos práticos para ilustrar esses conceitos. Por exemplo, criamos uma classe fictícia de Smart TV e implementamos métodos para ligar, desligar, mudar de canal e ajustar o volume. Foi muito gratificante ver esses conceitos aplicados em um projeto real.
+
+Além disso, aprendi sobre a importância de seguir convenções de nomenclatura ao criar métodos. Seguir padrões como Camel Case torna o código mais legível e compreensível para todos os desenvolvedores.
+
+No geral, o curso me proporcionou uma compreensão sólida dos métodos em Java e como aplicá-los em projetos do mundo real. Estou animado para continuar explorando e aprofundando meus conhecimentos em Java. 
+
+Exercicios:
+
+-Vamos criar um exemplo de uma classe para representar uma SmartTV onde:
+    - Ela tenha as características: ligada (boolean), canal (int) e volume (int);
+    - Nossa TV poderá ligar e desligar e assim mudar o estado ligada;
+    - Nossa TV aumentará e diminuirá o volume sempre em +1 ou -1;
+    - Nossa TV poderá mudar de canal de 1 em 1 ou definindo o número correspondente.
+
+- Arquivo do [Métodos SmartTv](metodo-sistema-smart-tv/src/SmartTv.java)
+- Arquivo do [Métodos Usuario](metodo-sistema-smart-tv/src/Usuario.java)
+
 
 ### <a name="resolvendo-desafios---fundamentos-da-linguagem-de-programação-java"> Resolvendo desafios - Fundamentos da Linguagem de Programação Java </a>
 
