@@ -40,12 +40,13 @@ O curso "Fundamentos da Plataforma Java" me proporcionou uma imersão abrangente
 
 Com uma base sólida estabelecida durante o curso, estou agora equipado para continuar explorando os vastos recursos da linguagem Java e aplicá-los em projetos futuros. Seja desenvolvendo aplicativos corporativos, construindo soluções para dispositivos móveis ou contribuindo para o desenvolvimento de software multiplataforma, o conhecimento adquirido neste curso servirá como alicerce para minha jornada como desenvolvedor Java. Aguardo ansiosamente para ver minhas realizações e meu progresso contínuo em minha carreira na programação Java.
 
-## <a name="fundamentos-da-plataforma-java"> Fundamentos da Plataforma Java </a>
-
-### <a name="introdução-à-plataforma-java"> Introdução à Plataforma Java </a>
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
+
+## <a name="fundamentos-da-plataforma-java"> Fundamentos da Plataforma Java </a>
+
+### <a name="introdução-à-plataforma-java"> Introdução à Plataforma Java </a>
 
 - [x] [Introdução à Plataforma Java]
 
@@ -71,7 +72,11 @@ Por fim, o processo de desenvolvimento em Java envolve a escrita de código-font
 
 Em resumo, Java é uma linguagem de programação poderosa, versátil e amplamente adotada, com uma longa história de evolução e inovação contínua. A compreensão de seus conceitos e recursos é essencial para qualquer desenvolvedor que deseje entrar no mundo da programação orientada a objetos e desenvolvimento de software multiplataforma.
 
-### <a name="ambiente-de-desenvolvimento-java"> Ambiente de Desenvolvimento Java </a> [**Voltar ao Topo**](#topo)
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
+### <a name="ambiente-de-desenvolvimento-java"> Ambiente de Desenvolvimento Java </a>
 
 - [x] [Ambiente de Desenvolvimento Java]
 
@@ -95,7 +100,11 @@ Além disso, é importante entender o que são workspaces, definir a JDK na IDE 
 
 Resumindo, configurar o ambiente de desenvolvimento para Java envolve instalar o JDK, escolher a IDE adequada e explorar seus recursos para aumentar nossa produtividade ao programar em Java.
 
-### <a name="aprendendo-a-sintaxe-java"> Aprendendo a Sintaxe Java </a> [**Voltar ao Topo**](#topo)
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
+### <a name="aprendendo-a-sintaxe-java"> Aprendendo a Sintaxe Java </a>
 
 - [x] [Aprendendo a Sintaxe Java]
 
@@ -103,7 +112,11 @@ Olá pessoal! Sejam todos bem-vindos ao nosso curso sobre Java básico! Aqui, co
 
 Na segunda etapa deste curso, mergulhamos na sintaxe da linguagem Java, explorando as regras essenciais para escrever códigos de forma eficiente e compreender os pré-requisitos necessários, como a instalação do JDK e a escolha de uma IDE.
 
-### <a name="anatomia-das-classes"> Anatomia das Classes </a> [**Voltar ao Topo**](#topo)
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
+### <a name="anatomia-das-classes"> Anatomia das Classes </a>
 
 Durante essa jornada, aprendi que a anatomia da classe é fundamental para compreender a estrutura inicial dos códigos. Aprendi como iniciar e encerrar instruções, a importância da identação e como organizar arquivos em pacotes para uma gestão de projetos mais eficiente.
 
@@ -119,7 +132,10 @@ Além disso, aprendi a utilizar pacotes para organizar meus projetos de forma hi
 
 Java Beans, por sua vez, trouxe uma nova perspectiva sobre como estruturar meus códigos de forma mais coesa e compreensível, visando uma melhor colaboração em equipe e uma manutenção mais eficiente no futuro.
 
-### <a name="tipos-e-variáveis"> Tipos e Variáveis </a> [**Voltar ao Topo**](#topo)
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+### <a name="tipos-e-variáveis"> Tipos e Variáveis </a>
 
 Durante o Curso Didático de Java Básico, promovido pela Digital, mergulhei fundo no universo do Java, explorando tipos e variáveis com foco na codificação. Ao longo dessa jornada de aprendizado, adquiri habilidades fundamentais para o desenvolvimento em Java.
 
@@ -134,6 +150,10 @@ Ao longo das aulas, pude praticar exemplos e exercícios, recebendo dicas valios
 Agora, estou confiante em minha capacidade de desenvolver programas em Java, utilizando tipos e variáveis de forma eficiente e seguindo as melhores práticas da linguagem. Estou ansioso para continuar explorando temas mais avançados nos próximos cursos.
 
 - Arquivo de teste [Aprendendo a Sintaxe Java](aprendendo-a-sintaxe/src/TiposVariaveis.java)
+
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
 
 ### <a name="peradores"> Operadores </a>    [**Voltar ao Topo**](#topo)
 
@@ -150,6 +170,10 @@ Por fim, mergulhamos nos operadores lógicos, que são essenciais para combinar 
 Ao longo do curso, pude praticar e experimentar cada conceito aprendido, o que me ajudou a consolidar meu entendimento e me tornar mais confiante em usar operadores em meus próprios projetos de programação.
 
 - Arquivo de teste [Operadores](aprendendo-a-sintaxe/src/Operadores.java)
+
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
 
 ### <a name="métodos"> Métodos </a> [**Voltar ao Topo**](#topo)
 
@@ -175,6 +199,10 @@ Exercicios:
 
     - Arquivo do [Métodos SmartTv](metodo-sistema-smart-tv/src/SmartTv.java)
     - Arquivo do [Métodos Usuario](metodo-sistema-smart-tv/src/Usuario.java)
+
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
 
 ### <a name="escopo-de-variáveis"> Escopo de Variáveis </a> [**Voltar ao Topo**](#topo)
 
@@ -227,6 +255,10 @@ public class Conta {
 
 Ao entender o escopo de variáveis, pude criar algoritmos mais eficientes e evitar falhas estruturais nos programas que desenvolvo. Estou empolgado para continuar explorando esse tema em exercícios e exemplos futuros, e espero poder compartilhar mais aprendizados em nossa jornada de aprendizado juntos.
 
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
 ### <a name="palavras-reservadas"> Palavras reservadas </a>
  [**Voltar ao Topo**](#topo)
 
@@ -243,6 +275,10 @@ Outro aspecto importante que aprendi foi sobre a relação entre as palavras res
 É interessante observar que algumas palavras reservadas são opostas umas às outras, o que significa que uma pode substituir a outra em determinados contextos. Essa compreensão me ajudou a aprofundar meu conhecimento sobre a linguagem Java e a escrever um código mais eficiente e legível.
 
 Para consolidar meu aprendizado, pretendo praticar a classificação e o uso das palavras reservadas em exemplos reais e buscar referências adicionais para aprimorar meu conhecimento.
+
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
 
 ### <a name="java-documentação"> Java Documentação </a> [**Voltar ao Topo**](#topo)
 
@@ -273,6 +309,9 @@ Um dos pontos altos do curso foi aprender a executar nossas aplicações passand
 
 No geral, este curso me proporcionou uma compreensão mais profunda de como interagir com programas Java através do terminal, ampliando minhas habilidades e tornando-me mais confiante na criação e execução de aplicativos Java. Mal posso esperar para explorar mais recursos da linguagem Java em meus projetos futuros!
 
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
 
 ## <a name="considerações-finais"> Considerações Finais </a>    [**Voltar ao Topo**](#topo)
 
@@ -294,6 +333,10 @@ Agora, armados com um conjunto sólido de habilidades em Java, estamos prontos p
 
 Agradecemos ao instrutor Gleyson Sampaio por sua orientação e expertise, e à DIO por fornecer uma plataforma excepcional para aprendizado e crescimento profissional. Que possamos continuar aprendendo, explorando e prosperando em nossa jornada como desenvolvedores Java.
 
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
 ## <a name="certificados"> Certificados </a>    [**Voltar ao Topo**](#topo)
 
 ## Introdução à Plataforma Java
@@ -304,6 +347,10 @@ Agradecemos ao instrutor Gleyson Sampaio por sua orientação e expertise, e à 
 
 ## Aprendendo a Sintaxe Java
 ![](img/03_certificado_aprendendo_sintaxe_java.jpg)
+
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
 
 ## <a name="licença"> Licença </a>  [**Voltar ao Topo**](#topo)
 
