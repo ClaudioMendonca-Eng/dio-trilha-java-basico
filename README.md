@@ -155,7 +155,7 @@ Agora, estou confiante em minha capacidade de desenvolver programas em Java, uti
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
 
-### <a name="peradores"> Operadores </a>    [**Voltar ao Topo**](#topo)
+### <a name="peradores"> Operadores </a>
 
 Logo no início do curso, aprendi sobre os operadores de atribuição, que são essenciais para definir e atualizar valores de variáveis. Descobri como usar o operador "=" para iniciar ou modificar o valor de uma variável, seja ela do tipo numérico ou de texto. Além disso, exploramos os operadores aritméticos, que são fundamentais para realizar cálculos matemáticos, como adição, subtração, multiplicação e divisão.
 
@@ -175,7 +175,7 @@ Ao longo do curso, pude praticar e experimentar cada conceito aprendido, o que m
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
 
-### <a name="métodos"> Métodos </a> [**Voltar ao Topo**](#topo)
+### <a name="métodos"> Métodos </a>
 
 No curso, aprendemos sobre a syntax de Java, com foco especial em métodos, dentro do contexto do Java básico. O objetivo principal era entender como criar métodos, discutir sobre parâmetros e visibilidade, o que é fundamental para a implementação eficaz de algoritmos.
 
@@ -204,7 +204,7 @@ Exercicios:
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
 
-### <a name="escopo-de-variáveis"> Escopo de Variáveis </a> [**Voltar ao Topo**](#topo)
+### <a name="escopo-de-variáveis"> Escopo de Variáveis </a>
 
 Esse conceito define onde as variáveis podem ser acessadas em um programa Java, impactando diretamente na eficiência e estruturação de nossas implementações.
 
@@ -260,7 +260,6 @@ Ao entender o escopo de variáveis, pude criar algoritmos mais eficientes e evit
 </p>
 
 ### <a name="palavras-reservadas"> Palavras reservadas </a>
- [**Voltar ao Topo**](#topo)
 
 minha compreensão sobre as palavras reservadas da linguagem Java foi aprimorada significativamente. Agora consigo perceber a importância dessas palavras e sua real finalidade na programação.
 
@@ -280,7 +279,7 @@ Para consolidar meu aprendizado, pretendo praticar a classificação e o uso das
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
 
-### <a name="java-documentação"> Java Documentação </a> [**Voltar ao Topo**](#topo)
+### <a name="java-documentação"> Java Documentação </a>
 
 Aprendi a importância de adicionar comentários aos meus arquivos Java para melhorar a legibilidade e compreensão do código. Para isso, é essencial ter um diretório de projeto bem estruturado, integração com um kit de desenvolvimento Java e uma IDE configurada.
 
@@ -313,7 +312,7 @@ No geral, este curso me proporcionou uma compreensão mais profunda de como inte
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
 
-## <a name="considerações-finais"> Considerações Finais </a>    [**Voltar ao Topo**](#topo)
+## <a name="considerações-finais"> Considerações Finais </a>
 
 Ao concluir este curso de Desenvolvedor Java, fornecido pela DIO (Digital Innovation One), uma jornada emocionante e repleta de aprendizado se encerra. Sob a orientação do talentoso instrutor Gleyson Sampaio, mergulhamos nas profundezas da linguagem Java, desde seus fundamentos até técnicas avançadas, capacitando-nos para enfrentar desafios no mundo do desenvolvimento de software.
 
@@ -337,7 +336,7 @@ Agradecemos ao instrutor Gleyson Sampaio por sua orientação e expertise, e à 
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
 
-## <a name="certificados"> Certificados </a>    [**Voltar ao Topo**](#topo)
+## <a name="certificados"> Certificados </a>
 
 ## Introdução à Plataforma Java
 ![](img/01_certificado_intr_platafoma_java.jpg)
@@ -352,7 +351,7 @@ Agradecemos ao instrutor Gleyson Sampaio por sua orientação e expertise, e à 
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
 
-## <a name="licença"> Licença </a>  [**Voltar ao Topo**](#topo)
+## <a name="licença"> Licença </a>
 
 <a href="https://www.buymeacoffee.com/claudiomendonca" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
