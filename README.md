@@ -1,7 +1,7 @@
 # Dio Trilha Java Basico
 | ![Logo](img/logo.png) | ![DIO](img/dio.png) |
 |:---:|:---:|
-| *Participei da Formação Java Developer da DIO, onde aprendi desde os fundamentos de Java até o uso avançado do Spring Framework. A imersão inicial abrangeu os princípios da linguagem e a Programação Orientada a Objetos. * | Nos módulos seguintes, aprofundei meu conhecimento e desenvolvi habilidades para projetos robustos. A formação incluiu desafios de código e projetos práticos para aplicar o aprendizado.|
+| Participei da Formação Java Developer da DIO, onde aprendi desde os fundamentos de Java até o uso avançado do Spring Framework. A imersão inicial abrangeu os princípios da linguagem e a Programação Orientada a Objetos. | Nos módulos seguintes, aprofundei meu conhecimento e desenvolvi habilidades para projetos robustos. A formação incluiu desafios de código e projetos práticos para aplicar o aprendizado.|
 
 
 ## Tecnologias
@@ -10,6 +10,7 @@
 </div>
 
 ## Índice
+[**Voltar ao Topo**](#topo)
 
 - [Instrutores](#instrutor)
 - [Apresentação](#apresentacao)
@@ -68,6 +69,7 @@ Por fim, o processo de desenvolvimento em Java envolve a escrita de código-font
 Em resumo, Java é uma linguagem de programação poderosa, versátil e amplamente adotada, com uma longa história de evolução e inovação contínua. A compreensão de seus conceitos e recursos é essencial para qualquer desenvolvedor que deseje entrar no mundo da programação orientada a objetos e desenvolvimento de software multiplataforma.
 
 ### <a name="ambiente-de-desenvolvimento-java"> Ambiente de Desenvolvimento Java </a>
+<a id="topo"></a>
 
 - [x] [Ambiente de Desenvolvimento Java]
 
@@ -92,6 +94,7 @@ Além disso, é importante entender o que são workspaces, definir a JDK na IDE 
 Resumindo, configurar o ambiente de desenvolvimento para Java envolve instalar o JDK, escolher a IDE adequada e explorar seus recursos para aumentar nossa produtividade ao programar em Java.
 
 ### <a name="aprendendo-a-sintaxe-java"> Aprendendo a Sintaxe Java </a>
+<a id="topo"></a>
 
 - [x] [Aprendendo a Sintaxe Java]
 
@@ -189,6 +192,7 @@ Escopo de Bloco/Fluxo: Em contextos como loops e estruturas condicionais, as var
 Durante o curso, percebi a importância de compreender onde declarar variáveis para evitar erros e criar algoritmos mais claros. Por exemplo, em uma classe de gerenciamento de contas, o saldo seria uma variável de escopo de classe, enquanto o valor a ser sacado em um método específico seria uma variável local desse método.
 
 ´´´java	
+
 public class Conta {
 	//variavel da classe conta
 	double saldo=10.0;
@@ -219,6 +223,7 @@ public class Conta {
 		return valorMontante;
 	}
 }
+
 ´´´
 
 Ao entender o escopo de variáveis, pude criar algoritmos mais eficientes e evitar falhas estruturais nos programas que desenvolvo. Estou empolgado para continuar explorando esse tema em exercícios e exemplos futuros, e espero poder compartilhar mais aprendizados em nossa jornada de aprendizado juntos.
