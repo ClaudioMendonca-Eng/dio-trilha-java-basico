@@ -28,6 +28,7 @@
         - [Terminal e Argumentos](#terminal-e-argumentos)        
 - [Considerações Finais](#considerações-finais)
 - [Certificados](#certificados)
+- [Material de Apoio](#material-de-apoio)
 - [Licença](#licença)
 
 ## <a name="instrutor"> Instrutores </a>
@@ -350,6 +351,14 @@ Agradecemos ao instrutor Gleyson Sampaio por sua orientação e expertise, e à 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
+
+## <a name="materiais-de-apoio"> Materiais de Apoio </a>
+
+Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seguinte endereço:
+
+[Material de Apoio](https://github.com/digitalinnovationone/trilha-java-basico )
+
+[Gitbook](https://glysns.gitbook.io/java-basico)
 
 ## <a name="licença"> Licença </a>
 
