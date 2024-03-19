@@ -1,6 +1,10 @@
 # Dio Trilha Java Basico
+
+![](img/logo.png)
  
 Participei da Formação Java Developer da DIO, onde aprendi desde os fundamentos de Java até o uso avançado do Spring Framework. A imersão inicial abrangeu os princípios da linguagem e a Programação Orientada a Objetos. Nos módulos seguintes, aprofundei meu conhecimento e desenvolvi habilidades para projetos robustos. A formação incluiu desafios de código e projetos práticos para aplicar o aprendizado.
+
+![](img/dio.png)
 
 ## Tecnologias
 <div>
@@ -15,54 +19,16 @@ Participei da Formação Java Developer da DIO, onde aprendi desde os fundamento
     - [Introdução à Plataforma Java](#introdução-à-plataforma-java)
     - [Ambiente de Desenvolvimento Java](#ambiente-de-desenvolvimento-java)
     - [Aprendendo a Sintaxe Java](#aprendendo-a-sintaxe-java)
-    - [Resolvendo desafios - Fundamentos da Linguagem de Programação Java](#resolvendo-desafios---fundamentos-da-linguagem-de-programação-java)
-    - [Simulando Uma Conta Bancária Através Do Terminal/Console](#simulando-uma-conta-bancária-através-do-terminalconsole)
-    - [Materiais Complementares - Fundamentos de Java](#materiais-complementares---fundamentos-de-java)
-- [Escopo e Estruturas de Controle em Java](#escopo-e-estruturas-de-controle-em-java)
-    - [Introdução e Estruturas Condicionais com Java](#introdução-e-estruturas-condicionais-com-java)
-    - [Estruturas de Repetição em Java](#estruturas-de-repetição-em-java)
-    - [Java e Tratamento de Exceções](#java-e-tratamento-de-exceções)
-    - [Resolvendo desafios - Escopo e Estruturas de Controle em Java](#resolvendo-desafios---escopo-e-estruturas-de-controle-em-java)
-    - [Criando Um Pequeno Sistema Para Validação de Processo Seletivo](#criando-um-pequeno-sistema-para-validação-de-processo-seletivo)
-    - [Materiais Complementares - Controle de Fluxo](#materiais-complementares---controle-de-fluxo)
-- [Programação Orientada a Objetos em Java](#programação-orientada-a-objetos-em-java)
-    - [Fundamentos da Programação Orientada a Objetos com Java](#fundamentos-da-programação-orientada-a-objetos-com-java)
-    - [Pilares da Programação Orientada a Objetos em Java](#pilares-da-programação-orientada-a-objetos-em-java)
-    - [Orientação a Objetos e UML: Diagramação de Classes do iPhone](#orientação-a-objetos-e-uml-diagramação-de-classes-do-iphone)
-    - [Criando um Banco Digital com Java e Orientação a Objetos](#criando-um-banco-digital-com-java-e-orientação-a-objetos)
-    - [Materiais Complementares - Programação orientada a objetos em Java](#materiais-complementares---programação-orientada-a-objetos-em-java)
-- [Estruturas de Dados e API de Streams em Java](#estruturas-de-dados-e-api-de-streams-em-java)
-    - [Estruturas de Dados em Java: Introdução](#estruturas-de-dados-em-java-introdução)
-    - [Estruturas de Dados em Java: Pilhas e Filas](#estruturas-de-dados-em-java-pilhas-e-filas)
-    - [Estruturas de Dados em Java: Listas](#estruturas-de-dados-em-java-listas)
-    - [Estruturas de Dados em Java: Árvores](#estruturas-de-dados-em-java-árvores)
-    - [Estruturas de Dados em Java: Principais Implementações](#estruturas-de-dados-em-java-principais-implementações)
-    - [Trabalhando com Collections Java](#trabalhando-com-collections-java)
-    - [Abstraindo um Bootcamp Usando Orientação a Objetos em Java](#abstraindo-um-bootcamp-usando-orientação-a-objetos-em-java)
-    - [Materiais Complementares - Estruturas de Dados](#materiais-complementares---estruturas-de-dados)
-- [Gerenciamento de Dependências e Build em Projetos Java](#gerenciamento-de-dependências-e-build-em-projetos-java)
-    - [Projetos Java com Gradle](#projetos-java-com-gradle)
-    - [Gerenciamento de Dependências e Build em Java com Maven](#gerenciamento-de-dependências-e-build-em-java-com-maven)
-    - [Materiais Complementares - Gerenciamento de Dependências e Build](#materiais-complementares---gerenciamento-de-dependências-e-build)
-- [Qualidade de Código e Boas Práticas com Java](#qualidade-de-código-e-boas-práticas-com-java)
-    - [Debugging Java](#debugging-java)
-    - [Tratamento de Exceções em Java](#tratamento-de-exceções-em-java)
-    - [Entrada e Saída de Arquivos (I/O) em Java](#entrada-e-saída-de-arquivos-io-em-java)
-    - [Aprenda sobre S.O.L.I.D. com Java](#aprenda-sobre-solid-com-java)
-    - [Introdução a Testes de Software](#introdução-a-testes-de-software)
-    - [Testes Unitários Com JUnit](#testes-unitários-com-junit)
-    - [Desenvolvendo Testes Utilizando Mockito](#desenvolvendo-testes-utilizando-mockito)
-    - [Materiais Complementares - Qualidade de Código e Boas Práticas com Java](#materiais-complementares---qualidade-de-código-e-boas-práticas-com-java)
-- [Conhecendo o Spring Framework](#conhecendo-o-spring-framework)
-    - [Principais Protocolos de Comunicação da Internet](#principais-protocolos-de-comunicação-da-internet)
-    - [Imersão no Spring Framework com Spring Boot](#imersão-no-spring-framework-com-spring-boot)
-    - [Criando uma API REST Documentada com Spring Web e Swagger](#criando-uma-api-rest-documentada-com-spring-web-e-swagger)
-    - [Adicionando Segurança a uma API REST com Spring Security](#adicionando-segurança-a-uma-api-rest-com-spring-security)
-    - [Explorando Padrões de Projetos na Prática com Java](#explorando-padrões-de-projetos-na-prática-com-java)
-    - [Conhecendo Spring Data JPA na prática com Java](#conhecendo-spring-data-jpa-na-prática-com-java)
-    - [Materiais Complementares - Conhecendo o Spring Framework](#materiais-complementares---conhecendo-o-spring-framework)
-    - [Avalie a Formação Java Developer](#avaliação-da-formação-java-developer)
-- [Encerramento do Curso](#encerramento)
+        - [Anatomia das Classes](#anatomia-das-classes)
+        - [Tipos e Variáveis](#tipos-e-variáveis)
+        - [Operadores](#operadores)
+        - [Métodos](#métodos)
+        - [Escopo de Variáveis](#escopo-de-variáveis)
+        - [Palavras reservadas](#palavras-reservadas)
+        - [Java Documentação](#java-documentação)
+        - [Terminal e Argumentos](#terminal-e-argumentos)        
+- [Considerações Finais](#considerações-finais)
+- [Certificados](#certificados)
 - [Licença](#licença)
 
 ## <a name="instrutor"> Instrutores </a>
@@ -71,7 +37,9 @@ Participei da Formação Java Developer da DIO, onde aprendi desde os fundamento
 
 ## <a name="apresentacao"> Apresentação </a>
 
-A formação em Desenvolvedor Java oferece uma jornada completa desde os fundamentos até as técnicas avançadas da linguagem. Ministrado pelos melhores especialistas da DIO, o curso começa com uma imersão nos princípios do Java e da Programação Orientada a Objetos (POO), capacitando os alunos desde o básico até o uso de abstrações poderosas como o Spring Framework. Com pré-requisitos de conhecimentos básicos em Lógica de Programação e Pensamento Computacional, os participantes são desafiados com atividades práticas, incluindo desafios de código e projetos, para aplicar os conhecimentos adquiridos e construir um portfólio sólido. Com uma variedade de módulos abrangendo desde a sintaxe Java até o gerenciamento de dependências e construção de projetos com Maven e Gradle, os alunos estão preparados para enfrentar projetos mais robustos e complexos, capacitando-se para uma carreira de sucesso como desenvolvedores Java.
+O curso "Fundamentos da Plataforma Java" me proporcionou uma imersão abrangente no universo da programação Java, desde conceitos básicos até aspectos mais avançados da linguagem. Ao longo do curso, explorei a sintaxe de Java, compreendi a importância do ambiente de desenvolvimento e dominei tópicos essenciais como tipos e variáveis, operadores, métodos e escopo de variáveis. Além disso, aprendi sobre palavras reservadas, documentação em Java e interação com programas via terminal, expandindo minhas habilidades e preparando-me para desenvolver aplicativos Java robustos e eficientes.
+
+Com uma base sólida estabelecida durante o curso, estou agora equipado para continuar explorando os vastos recursos da linguagem Java e aplicá-los em projetos futuros. Seja desenvolvendo aplicativos corporativos, construindo soluções para dispositivos móveis ou contribuindo para o desenvolvimento de software multiplataforma, o conhecimento adquirido neste curso servirá como alicerce para minha jornada como desenvolvedor Java. Aguardo ansiosamente para ver minhas realizações e meu progresso contínuo em minha carreira na programação Java.
 
 ## <a name="fundamentos-da-plataforma-java"> Fundamentos da Plataforma Java </a>
 
@@ -105,7 +73,6 @@ Em resumo, Java é uma linguagem de programação poderosa, versátil e amplamen
 
 - [x] [Ambiente de Desenvolvimento Java]
 
-
 Depois de concluir o curso de Java Básico, agora posso explicar como configurar o ambiente de desenvolvimento para começar a programar em Java.
 
 O primeiro passo é garantir que o JDK (Java Development Kit) esteja instalado no nosso sistema. Isso é essencial para podermos compilar e executar programas Java. Ao instalar o JDK, é importante verificar se estamos utilizando a versão correta de acordo com os requisitos do projeto.
@@ -130,12 +97,12 @@ Resumindo, configurar o ambiente de desenvolvimento para Java envolve instalar o
 
 - [x] [Aprendendo a Sintaxe Java]
 
-
 Olá pessoal! Sejam todos bem-vindos ao nosso curso sobre Java básico! Aqui, compartilharei minha experiência e as práticas que aprendi ao longo do curso.
 
 Na segunda etapa deste curso, mergulhamos na sintaxe da linguagem Java, explorando as regras essenciais para escrever códigos de forma eficiente e compreender os pré-requisitos necessários, como a instalação do JDK e a escolha de uma IDE.
 
-Anatomia das Classes:
+### <a name="anatomia-das-classes"> Anatomia das Classes </a>
+
 Durante essa jornada, aprendi que a anatomia da classe é fundamental para compreender a estrutura inicial dos códigos. Aprendi como iniciar e encerrar instruções, a importância da identação e como organizar arquivos em pacotes para uma gestão de projetos mais eficiente.
 
 Exploramos conceitos como declaração de variáveis e métodos, seguindo padrões de nomenclatura para tornar o código mais legível. A identação se mostrou uma aliada importante para uma organização clara do código. Além disso, aprendi sobre o uso de pacotes para uma melhor organização dos arquivos em nossos projetos, garantindo uma estrutura mais gerenciável à medida que o projeto cresce.
@@ -150,7 +117,8 @@ Além disso, aprendi a utilizar pacotes para organizar meus projetos de forma hi
 
 Java Beans, por sua vez, trouxe uma nova perspectiva sobre como estruturar meus códigos de forma mais coesa e compreensível, visando uma melhor colaboração em equipe e uma manutenção mais eficiente no futuro.
 
-Tipos e Variáveis:
+### <a name="tipos-e-variáveis"> Tipos e Variáveis </a>
+
 Durante o Curso Didático de Java Básico, promovido pela Digital, mergulhei fundo no universo do Java, explorando tipos e variáveis com foco na codificação. Ao longo dessa jornada de aprendizado, adquiri habilidades fundamentais para o desenvolvimento em Java.
 
 Primeiramente, aprendi sobre os tipos de dados em Java, desde os básicos como números inteiros e decimais até tipos lógicos e caracteres. Entendi a distinção crucial entre variáveis e constantes, compreendendo como declará-las e utilizá-las em meus programas.
@@ -165,7 +133,8 @@ Agora, estou confiante em minha capacidade de desenvolver programas em Java, uti
 
 - Arquivo de teste [Aprendendo a Sintaxe Java](aprendendo-a-sintaxe/src/TiposVariaveis.java)
 
-Operadores:
+### <a name="peradores"> Operadores </a>
+
 Logo no início do curso, aprendi sobre os operadores de atribuição, que são essenciais para definir e atualizar valores de variáveis. Descobri como usar o operador "=" para iniciar ou modificar o valor de uma variável, seja ela do tipo numérico ou de texto. Além disso, exploramos os operadores aritméticos, que são fundamentais para realizar cálculos matemáticos, como adição, subtração, multiplicação e divisão.
 
 Em seguida, mergulhamos nos operadores unários, que são aplicados em conjunto com outros operadores aritméticos. Aprendi a utilizar o operador de incremento "++" e o de decremento "--" para alterar valores de variáveis de forma eficiente. Também descobri como usar o operador de negação "!" para inverter valores booleanos, o que é útil em muitas situações de programação.
@@ -180,7 +149,8 @@ Ao longo do curso, pude praticar e experimentar cada conceito aprendido, o que m
 
 - Arquivo de teste [Operadores](aprendendo-a-sintaxe/src/Operadores.java)
 
-Métodos:
+### <a name="métodos"> Métodos </a>
+
 No curso, aprendemos sobre a syntax de Java, com foco especial em métodos, dentro do contexto do Java básico. O objetivo principal era entender como criar métodos, discutir sobre parâmetros e visibilidade, o que é fundamental para a implementação eficaz de algoritmos.
 
 Antes de mergulharmos nos conceitos, o instrutor destacou a importância de configurar adequadamente o ambiente de desenvolvimento, como o diretório do projeto, o Kit Hamp e uma IDE, para garantir alta produtividade durante as sessões.
@@ -204,14 +174,133 @@ Exercicios:
     - Arquivo do [Métodos SmartTv](metodo-sistema-smart-tv/src/SmartTv.java)
     - Arquivo do [Métodos Usuario](metodo-sistema-smart-tv/src/Usuario.java)
 
+### <a name="escopo-de-variáveis"> Escopo de Variáveis </a>
 
-### <a name="resolvendo-desafios---fundamentos-da-linguagem-de-programação-java"> Resolvendo desafios - Fundamentos da Linguagem de Programação Java </a>
+Esse conceito define onde as variáveis podem ser acessadas em um programa Java, impactando diretamente na eficiência e estruturação de nossas implementações.
 
-- [ ] [Resolvendo desafios - Fundamentos da Linguagem de Programação Java]
+Aprendi que o escopo de uma variável está ligado ao bloco onde foi declarada. Isso significa que uma variável pode ser acessada apenas dentro do bloco em que foi definida.
+
+Exploramos três tipos principais de escopo:
+
+Escopo de Classe: Variáveis declaradas dentro de uma classe são acessíveis por todos os métodos dessa classe, sendo conhecidas como atributos da classe.
+
+Escopo de Método: Variáveis declaradas dentro de um método estão limitadas ao corpo desse método e não podem ser acessadas por outros métodos fora dele.
+
+Escopo de Bloco/Fluxo: Em contextos como loops e estruturas condicionais, as variáveis têm um escopo ainda mais restrito, limitado ao bloco em que são declaradas.
+
+Durante o curso, percebi a importância de compreender onde declarar variáveis para evitar erros e criar algoritmos mais claros. Por exemplo, em uma classe de gerenciamento de contas, o saldo seria uma variável de escopo de classe, enquanto o valor a ser sacado em um método específico seria uma variável local desse método.
+
+´´´java	
+public class Conta {
+	//variavel da classe conta
+	double saldo=10.0;
+	
+	public void sacar(Double valor) {
+		//variavel local de método
+		double novoSaldo = saldo - valor;
+	}
+	public void imprimirSaldo(){
+		//disponível em toda classe
+		System.out.println(saldo);
+		//somente o método sacar conhece esta variavel
+		System.out.println(novoSaldo);
+	
+	}
+	public double calcularDividaExponencial(){
+		//variável local de método
+		double valorParcela = 50.0;
+		double valorMontante = 0.0; // começando a variável com valor zero
+		for(int x=1; x<=5; x++) {//x variável de escopo de fluxo
+			//esta variável será reiniciada a cada execução for
+			double valorCalculado = valorParcela * x;
+			valorMontante = valorMontante + valorCalculado;
+		}
+		//escopo de fluxo
+		//x e valorCalculado nunca estarão disponíveis fora do for
+		
+		return valorMontante;
+	}
+}
+´´´
+
+Ao entender o escopo de variáveis, pude criar algoritmos mais eficientes e evitar falhas estruturais nos programas que desenvolvo. Estou empolgado para continuar explorando esse tema em exercícios e exemplos futuros, e espero poder compartilhar mais aprendizados em nossa jornada de aprendizado juntos.
+
+### <a name="palavras-reservadas"> Palavras reservadas </a>
+
+minha compreensão sobre as palavras reservadas da linguagem Java foi aprimorada significativamente. Agora consigo perceber a importância dessas palavras e sua real finalidade na programação.
+
+Um dos pontos cruciais que aprendi é que as palavras reservadas são identificadores com funções específicas na linguagem e não podem ser utilizadas para nomear variáveis, classes, métodos ou atributos. Isso ficou claro quando exploramos exemplos como "int", que é uma palavra reservada para um tipo específico de variável.
+
+Durante o curso, aprendi que a linguagem Java possui 52 palavras reservadas, todas escritas em minúsculas e organizadas em grupos. Essas palavras são fundamentais para o desenvolvimento em Java e são identificadas por cores especiais nas IDEs, o que facilita sua identificação durante o desenvolvimento.
+
+Ao longo das aulas, exploramos as palavras reservadas agrupadas por finalidade, desde os controles de pacotes, como "import" e "package", até os tipos primitivos, como "boolean", "byte" e "char". Também discutimos os modificadores de acesso, como "public", "private" e "protected", e os modificadores de classe, variáveis e métodos, como "static", "final" e "abstract".
+
+Outro aspecto importante que aprendi foi sobre a relação entre as palavras reservadas e conceitos como herança e manipulação de exceções. Palavras como "extends" e "implements" estão diretamente ligadas à herança, enquanto "throw" e "throws" são utilizadas para manipular exceções.
+
+É interessante observar que algumas palavras reservadas são opostas umas às outras, o que significa que uma pode substituir a outra em determinados contextos. Essa compreensão me ajudou a aprofundar meu conhecimento sobre a linguagem Java e a escrever um código mais eficiente e legível.
+
+Para consolidar meu aprendizado, pretendo praticar a classificação e o uso das palavras reservadas em exemplos reais e buscar referências adicionais para aprimorar meu conhecimento.
+
+### <a name="java-documentação"> Java Documentação </a>
+
+Aprendi a importância de adicionar comentários aos meus arquivos Java para melhorar a legibilidade e compreensão do código. Para isso, é essencial ter um diretório de projeto bem estruturado, integração com um kit de desenvolvimento Java e uma IDE configurada.
+
+Durante o curso, explorei a documentação oficial da linguagem Java, compreendendo os diferentes tipos de documentos e explorando o Javadoc em detalhes. Uma dica valiosa foi utilizar as plataformas disponíveis, como fóruns e comunidades online, para interagir e esclarecer dúvidas sempre que necessário.
+
+Percebi que a documentação em Java é uma das maiores vantagens dessa tecnologia. Ela fornece uma compreensão detalhada dos recursos da linguagem, permitindo explorar todas as funcionalidades de forma clara e intuitiva.
+
+Aprendi que dominar a documentação oficial é essencial para se tornar um desenvolvedor avançado, pois não apenas ajuda a entender a linguagem, mas também a incorporar os melhores padrões nos projetos.
+
+Seguindo o conselho do instrutor, mergulhei profundamente na documentação, descobrindo uma riqueza de funcionalidades prontas para serem utilizadas em meus projetos. A documentação detalha informações sobre métodos, construtores e atributos das classes, permitindo explorar todo o potencial da linguagem.
+
+Além disso, aprendi a enriquecer minha documentação com tags relevantes, como autor, versão, parâmetros, tipos de retorno e exceções, para tornar a compreensão da classe e seus métodos ainda mais clara.
+
+Um exemplo prático que explorei durante o curso foi a criação de documentação para a classe [Calculadora](aprendendo-a-sintaxe/src/Calculadora.java), destacando as tags mais utilizadas. Entendi que os comentários no código não devem compensar a falta de estruturação do algoritmo, mas sim complementá-lo, seguindo as boas práticas de programação.
+
+Por fim, compreendi como o Javadoc é uma ferramenta poderosa para gerar documentação visual a partir do código-fonte, facilitando a compreensão e navegação do projeto.
+
+- Terminal e Argumentos:
+Explorando a Execução via Terminal. Durante esse curso, mergulhamos no fascinante mundo dos terminais e argumentos da aplicação Java, explorando maneiras simples de interagir com nossos programas sem depender de interfaces gráficas complexas.
+
+Uma das partes mais interessantes foi aprender sobre os argumentos da classe principal e como passá-los para nossos programas Java. Isso abre possibilidades incríveis para tornar nossas aplicações mais dinâmicas e interativas. Por exemplo, aprendi a criar uma classe simples chamada "MinhaClasse" e executá-la diretamente do terminal, o que me permitiu compreender melhor como os arquivos compilados são armazenados e como executar programas Java de forma independente.
+
+Além disso, exploramos a utilização da classe Scanner para capturar entrada de dados, o que tornou a interação com nossos programas muito mais amigável e intuitiva. Agora consigo solicitar informações aos usuários durante a execução do programa, tornando a experiência mais personalizada e fluida.
+
+Um dos pontos altos do curso foi aprender a executar nossas aplicações passando parâmetros via linha de comando. Isso é especialmente útil quando nossos clientes ou usuários finais não têm a mesma IDE instalada, pois podemos distribuir nossos aplicativos sem depender de uma IDE específica.
+
+No geral, este curso me proporcionou uma compreensão mais profunda de como interagir com programas Java através do terminal, ampliando minhas habilidades e tornando-me mais confiante na criação e execução de aplicativos Java. Mal posso esperar para explorar mais recursos da linguagem Java em meus projetos futuros!
 
 
+## <a name="considerações-finais"> Considerações Finais </a>
 
+Ao concluir este curso de Desenvolvedor Java, fornecido pela DIO (Digital Innovation One), uma jornada emocionante e repleta de aprendizado se encerra. Sob a orientação do talentoso instrutor Gleyson Sampaio, mergulhamos nas profundezas da linguagem Java, desde seus fundamentos até técnicas avançadas, capacitando-nos para enfrentar desafios no mundo do desenvolvimento de software.
 
+A apresentação inicial do curso nos forneceu uma visão abrangente do que estava por vir. Desde os fundamentos da plataforma Java até a configuração do ambiente de desenvolvimento e a compreensão da sintaxe básica, cada etapa foi cuidadosamente planejada para nos levar em uma jornada de aprendizado eficaz.
+
+Nos aprofundamos nos pilares da Programação Orientada a Objetos, exploramos os tipos de dados, variáveis e operadores, e compreendemos a importância do escopo de variáveis em nossos programas. A anatomia das classes foi desvendada, e os métodos se tornaram uma ferramenta poderosa em nossa caixa de ferramentas de desenvolvimento.
+
+Exploramos as palavras reservadas da linguagem Java, compreendendo sua importância e função em nossos programas. A documentação Java tornou-se uma aliada essencial, permitindo-nos explorar todas as nuances da linguagem e incorporar as melhores práticas em nossos projetos.
+
+Além disso, aprendemos a interagir com nossos programas Java através do terminal, abrindo novas possibilidades de execução e interatividade.
+
+Ao longo dessa jornada, não apenas adquirimos conhecimento teórico, mas também colocamos em prática nossos aprendizados através de exemplos, exercícios e projetos práticos. Cada desafio enfrentado contribuiu para nossa evolução como desenvolvedores Java.
+
+É importante destacar a importância do ambiente colaborativo proporcionado pela comunidade DIO. A troca de conhecimento, a resolução de dúvidas e o apoio mútuo foram pilares fundamentais em nossa jornada de aprendizado.
+
+Agora, armados com um conjunto sólido de habilidades em Java, estamos prontos para enfrentar projetos mais desafiadores e contribuir para a inovação no mundo do desenvolvimento de software. Que este curso seja apenas o começo de uma jornada emocionante em direção ao domínio da tecnologia e ao alcance de nossos objetivos profissionais.
+
+Agradecemos ao instrutor Gleyson Sampaio por sua orientação e expertise, e à DIO por fornecer uma plataforma excepcional para aprendizado e crescimento profissional. Que possamos continuar aprendendo, explorando e prosperando em nossa jornada como desenvolvedores Java.
+
+## <a name="certificados"> Certificados </a>
+
+## Introdução à Plataforma Java
+![](img/01_certificado_intr_platafoma_java)
+
+## Ambiente de Desenvolvimento Java
+![](img/02_certificado_amb_desenvolvimento_java)
+
+## Aprendendo a Sintaxe Java
+![](img/03_certificado_aprendendo_sintaxe_java)
 
 ## <a name="licença"> Licença </a>
 
