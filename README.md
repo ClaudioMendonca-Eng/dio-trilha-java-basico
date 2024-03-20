@@ -25,7 +25,8 @@
         - [Escopo de Variáveis](#escopo-de-variáveis)
         - [Palavras reservadas](#palavras-reservadas)
         - [Java Documentação](#java-documentação)
-        - [Terminal e Argumentos](#terminal-e-argumentos)        
+        - [Terminal e Argumentos](#terminal-e-argumentos)
+    - [Sintaxe - Desafio](#sintaxe---desafio)       
 - [Considerações Finais](#considerações-finais)
 - [Certificados](#certificados)
 - [Material de Apoio](#material-de-apoio)
@@ -298,7 +299,12 @@ Um exemplo prático que explorei durante o curso foi a criação de documentaç�
 
 Por fim, compreendi como o Javadoc é uma ferramenta poderosa para gerar documentação visual a partir do código-fonte, facilitando a compreensão e navegação do projeto.
 
-- Terminal e Argumentos:
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
+### <a name="terminal-e-argumentos"> Terminal e Argumentos </a>
+
 Explorando a Execução via Terminal. Durante esse curso, mergulhamos no fascinante mundo dos terminais e argumentos da aplicação Java, explorando maneiras simples de interagir com nossos programas sem depender de interfaces gráficas complexas.
 
 Uma das partes mais interessantes foi aprender sobre os argumentos da classe principal e como passá-los para nossos programas Java. Isso abre possibilidades incríveis para tornar nossas aplicações mais dinâmicas e interativas. Por exemplo, aprendi a criar uma classe simples chamada "MinhaClasse" e executá-la diretamente do terminal, o que me permitiu compreender melhor como os arquivos compilados são armazenados e como executar programas Java de forma independente.
@@ -307,7 +313,64 @@ Além disso, exploramos a utilização da classe Scanner para capturar entrada d
 
 Um dos pontos altos do curso foi aprender a executar nossas aplicações passando parâmetros via linha de comando. Isso é especialmente útil quando nossos clientes ou usuários finais não têm a mesma IDE instalada, pois podemos distribuir nossos aplicativos sem depender de uma IDE específica.
 
-No geral, este curso me proporcionou uma compreensão mais profunda de como interagir com programas Java através do terminal, ampliando minhas habilidades e tornando-me mais confiante na criação e execução de aplicativos Java. Mal posso esperar para explorar mais recursos da linguagem Java em meus projetos futuros!
+No geral, este curso me proporcionou uma compreensão mais profunda de como interagir com programas Java através do terminal, ampliando minhas habilidades e tornando-me mais confiante na criação e execução de aplicativos Java. Mal posso esperar para explorar mais recursos da linguagem Java em meus projetos futuros!<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
+## <a name="sintaxe---desafio"> Sintaxe - Desafio </a>
+
+Durante o curso de Trilha Java Básico na plataforma DIO, aprendi a aplicar os conceitos de sintaxe Java ao desenvolver um projeto prático chamado ContaBanco. Neste projeto, criamos uma classe chamada ContaTerminal.java para lidar com a codificação do programa.
+
+Um dos aspectos que revisei foi sobre as regras de declaração de variáveis em Java. Por exemplo, aprendi sobre os tipos de variáveis, como Inteiro para representar o número da conta, Texto para a agência e o nome do cliente, e Decimal para o saldo.
+
+Além disso, também revisei como receber dados através do terminal e manipulá-los na aplicação Java usando a classe Scanner e os argumentos da função main. Isso me permitiu criar um sistema interativo onde o usuário pode inserir informações como número da agência, nome do cliente e saldo.
+
+Ao finalizar a inserção de todos os dados solicitados, implementei a lógica para exibir uma mensagem personalizada ao usuário, agradecendo por criar uma conta no banco e fornecendo os detalhes da conta, como agência, número e saldo disponível para saque. Utilizei conceitos de concatenação e manipulação de strings para garantir que a mensagem exibida refletisse corretamente as informações fornecidas pelo usuário.
+
+Essa prática me proporcionou uma compreensão mais sólida da sintaxe Java, além de me ajudar a desenvolver habilidades práticas na criação de programas interativos e na manipulação de dados através do terminal. Estou animado para aplicar esses conhecimentos em projetos futuros e continuar a aprimorar minhas habilidades de programação em Java.
+
+´´´java
+/**
+ * <h1>ContaTerminal</h1>
+ * A classe ContaTerminal é responsável por gerenciar o cadastro de clientes bancários através do terminal.
+ * <p>
+ * <b>Nota:</b> Este programa permite ao usuário cadastrar clientes bancários fornecendo informações como agência, número da conta, nome do cliente e saldo.
+ * 
+ * @author  Claudio Mendonça
+ * @version 1.0
+ * @since   19/03/2024
+ */
+import java.util.Scanner;
+
+public class ContaTerminal {
+    public static void main(String[] args) throws Exception {
+        
+        //TODO: Conhecer e importar a classe Scanner
+        Scanner scanner = new Scanner(System.in);
+                
+        //TODO: Exibir mensagem para o nosso usuário
+        System.out.println("||| Seja bem vindo ao Banco JAVA :: CADASTRO DO CLIENTE |||");
+
+        //TODO: Obter pelo scanner os valores digitados no terminal
+        System.out.println("Por favor, digite o número da Agência:");
+        String agencia = scanner.nextLine();
+
+        System.out.println("Por favor, digite o número da Conta:");
+        String numero = scanner.nextLine();
+
+        System.out.println("Por favor, digite o nome do cliente:");
+        String nomeCliente = scanner.nextLine();
+
+        System.out.println("Por favor, digite o saldo da conta:");
+        double saldo = scanner.nextDouble();
+
+        //TODO: Exibir o mensagem da conta criada
+        System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + numero + " e seu saldo " + saldo + " já está disponível para saque.");
+
+    }
+}
+´´´
+- Arquivo do [Sintaxe - Desafio: ContaTerminal.java](ContaBanco/src/ContaTerminal.java)
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
