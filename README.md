@@ -339,7 +339,7 @@ import java.util.Scanner;
  * 
  * @author  Claudio Mendonça
  * @version 1.0
- * @since   19/03/2024
+ * @since   20/03/2024
  */
 
 public class ContaTerminal {
@@ -369,7 +369,8 @@ public class ContaTerminal {
 
     }
 }
-´´´
+```
+
 - Arquivo do [Sintaxe - Desafio: ContaTerminal.java](ContaBanco/src/ContaTerminal.java)
 
 <p align="right">
