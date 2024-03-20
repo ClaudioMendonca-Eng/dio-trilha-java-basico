@@ -6,7 +6,7 @@
  * 
  * @author  Claudio Mendonça
  * @version 1.0
- * @since   19/03/2024
+ * @since   20/03/2024
  */
 import java.util.Scanner;
 
