@@ -331,7 +331,8 @@ Essa prática me proporcionou uma compreensão mais sólida da sintaxe Java, al�
 
 ´´´java
 
-/**
+import java.util.Scanner;
+ /**
  * <h1>ContaTerminal</h1>
  * A classe ContaTerminal é responsável por gerenciar o cadastro de clientes bancários através do terminal.
  * <p>
@@ -341,7 +342,6 @@ Essa prática me proporcionou uma compreensão mais sólida da sintaxe Java, al�
  * @version 1.0
  * @since   19/03/2024
  */
-import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
