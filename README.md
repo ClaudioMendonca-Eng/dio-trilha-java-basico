@@ -28,7 +28,8 @@
         - [Terminal e Argumentos](#terminal-e-argumentos)
     - [Sintaxe - Desafio](#sintaxe---desafio)
 - [Escopo e Estruturas de Controle em Java](#escopo-e-estruturas-de-controle-em-java)
-    - [Introdução e Estruturas Condicionais com Java](#introdução-e-estruturas-condicionais-com-java)      
+    - [Introdução e Estruturas Condicionais com Java](#introdução-e-estruturas-condicionais-com-java) 
+      - [Estruturas Condicionais](#estruturas-condicionais)     
 - [Considerações Finais](#considerações-finais)
 - [Certificados](#certificados)
 - [Material de Apoio](#material-de-apoio)
@@ -382,6 +383,8 @@ public class ContaTerminal {
 ## <a name="escopo-e-estruturas-de-controle-em-java"> Escopo e Estruturas de Controle em Java </a>
 
 ## <a name="introdução-e-estruturas-condicionais-com-java"> Introdução e Estruturas Condicionais com Java </a>
+
+### <a name="estruturas-condicionais"> Estruturas Condicionais </a>
 
 
 
