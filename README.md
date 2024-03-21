@@ -384,14 +384,27 @@ public class ContaTerminal {
 
 ## <a name="introdução-e-estruturas-condicionais-com-java"> Introdução e Estruturas Condicionais com Java </a>
 
+Durante o curso, explorei os fundamentos essenciais de fluxos condicionais, excepcionais e de repetição em aplicações Java. Aprendi a utilizar estruturas como if, else, switch case, for e while de forma eficiente para controlar o comportamento dos meus programas.
+
+Um dos pontos cruciais do curso foi o tratamento de exceções, onde aprendi a lidar com erros e situações inesperadas em minhas aplicações, utilizando blocos try, catch e finally de forma adequada.
+
+Uma dica valiosa que recebi foi a importância de praticar além do curso, explorando diferentes cenários e casos de uso. Isso ajudou a solidificar meu entendimento sobre controle de fluxo e algoritmos em geral, preparando-me para dominar esses conceitos não apenas em Java, mas em outras linguagens também.
+
 ### <a name="estruturas-condicionais"> Estruturas Condicionais </a>
 
+No início, mergulhamos nas estruturas condicionais, que são fundamentais para controlar o fluxo de um programa. Aprendi que as estruturas simples executam ações apenas quando uma condição é atendida, enquanto as compostas podem executar diferentes ações com base em diferentes condições.
 
+Um exemplo prático que exploramos foi o de um sistema de [caixa eletrônico](02-escopo-e-estruturas-de-controle/controle-flux/src/CaixaEletronico.java), onde aprendi a implementar verificações de saldo usando Java. Foi muito interessante ver na prática como podemos controlar o fluxo do programa com base em condições específicas.
 
+Outro ponto importante foi entender como depurar o código usando recursos como breakpoints. Isso me ajudou a acompanhar a execução do programa linha por linha e verificar se minhas condições estavam sendo corretamente avaliadas.
 
+Na sequência, exploramos as condicionais compostas, que permitem ao programa escolher entre diferentes caminhos de execução. Um exemplo prático que estudamos foi o de um [sistema de resultados escolares](02-escopo-e-estruturas-de-controle/controle-flux/src/ResultadoEscolar.java), onde diferentes notas levam a diferentes situações.
 
+Aprendi a implementar essas condições em Java usando estruturas como if, else if e else. Foi interessante ver como podemos encadear várias condições para lidar com cenários mais complexos.
 
+Além disso, exploramos o conceito de [switch-case](02-escopo-e-estruturas-de-controle/controle-flux/src/SistemaMedida.java), que nos permite comparar o valor de uma variável com uma série de casos e executar o código associado ao caso correspondente. Isso foi útil para entender como lidar com diferentes opções em nossos programas.
 
+No geral, foi uma jornada incrível de aprendizado. Aprendi não apenas sobre os conceitos teóricos, mas também pude colocar tudo em prática com exemplos reais em Java. Estou animado para continuar explorando mais conceitos emocionantes em nossas próximas aulas!
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
