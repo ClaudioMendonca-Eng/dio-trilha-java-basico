@@ -26,7 +26,9 @@
         - [Palavras reservadas](#palavras-reservadas)
         - [Java Documentação](#java-documentação)
         - [Terminal e Argumentos](#terminal-e-argumentos)
-    - [Sintaxe - Desafio](#sintaxe---desafio)       
+    - [Sintaxe - Desafio](#sintaxe---desafio)
+- [Escopo e Estruturas de Controle em Java](#escopo-e-estruturas-de-controle-em-java)
+    - [Introdução e Estruturas Condicionais com Java](#introdução-e-estruturas-condicionais-com-java)      
 - [Considerações Finais](#considerações-finais)
 - [Certificados](#certificados)
 - [Material de Apoio](#material-de-apoio)
@@ -151,7 +153,7 @@ Ao longo das aulas, pude praticar exemplos e exercícios, recebendo dicas valios
 
 Agora, estou confiante em minha capacidade de desenvolver programas em Java, utilizando tipos e variáveis de forma eficiente e seguindo as melhores práticas da linguagem. Estou ansioso para continuar explorando temas mais avançados nos próximos cursos.
 
-- Arquivo de teste [Aprendendo a Sintaxe Java](aprendendo-a-sintaxe/src/TiposVariaveis.java)
+- Arquivo de teste [Aprendendo a Sintaxe Java](01-fundamentos-da-plataforma-java/aprendendo-a-sintaxe/src/TiposVariaveis.java)
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
@@ -171,7 +173,7 @@ Por fim, mergulhamos nos operadores lógicos, que são essenciais para combinar 
 
 Ao longo do curso, pude praticar e experimentar cada conceito aprendido, o que me ajudou a consolidar meu entendimento e me tornar mais confiante em usar operadores em meus próprios projetos de programação.
 
-- Arquivo de teste [Operadores](aprendendo-a-sintaxe/src/Operadores.java)
+- Arquivo de teste [Operadores](01-fundamentos-da-plataforma-java/aprendendo-a-sintaxe/src/Operadores.java)
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
@@ -199,8 +201,8 @@ Exercicios:
     - Nossa TV aumentará e diminuirá o volume sempre em +1 ou -1;
     - Nossa TV poderá mudar de canal de 1 em 1 ou definindo o número correspondente.
 
-    - Arquivo do [Métodos SmartTv](metodo-sistema-smart-tv/src/SmartTv.java)
-    - Arquivo do [Métodos Usuario](metodo-sistema-smart-tv/src/Usuario.java)
+    - Arquivo do [Métodos SmartTv](01-fundamentos-da-plataforma-java/metodo-sistema-smart-tv/src/SmartTv.java)
+    - Arquivo do [Métodos Usuario](01-fundamentos-da-plataforma-java/metodo-sistema-smart-tv/src/Usuario.java)
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
@@ -295,7 +297,7 @@ Seguindo o conselho do instrutor, mergulhei profundamente na documentação, des
 
 Além disso, aprendi a enriquecer minha documentação com tags relevantes, como autor, versão, parâmetros, tipos de retorno e exceções, para tornar a compreensão da classe e seus métodos ainda mais clara.
 
-Um exemplo prático que explorei durante o curso foi a criação de documentação para a classe [Calculadora](aprendendo-a-sintaxe/src/Calculadora.java), destacando as tags mais utilizadas. Entendi que os comentários no código não devem compensar a falta de estruturação do algoritmo, mas sim complementá-lo, seguindo as boas práticas de programação.
+Um exemplo prático que explorei durante o curso foi a criação de documentação para a classe [Calculadora](01-fundamentos-da-plataforma-java/aprendendo-a-sintaxe/src/Calculadora.java), destacando as tags mais utilizadas. Entendi que os comentários no código não devem compensar a falta de estruturação do algoritmo, mas sim complementá-lo, seguindo as boas práticas de programação.
 
 Por fim, compreendi como o Javadoc é uma ferramenta poderosa para gerar documentação visual a partir do código-fonte, facilitando a compreensão e navegação do projeto.
 
@@ -371,7 +373,22 @@ public class ContaTerminal {
 }
 ```
 
-- Arquivo do [Sintaxe - Desafio: ContaTerminal.java](ContaBanco/src/ContaTerminal.java)
+- Arquivo do [Sintaxe - Desafio: ContaTerminal.java](01-fundamentos-da-plataforma-java/ContaBanco/src/ContaTerminal.java)
+
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
+## <a name="escopo-e-estruturas-de-controle-em-java"> Escopo e Estruturas de Controle em Java </a>
+
+## <a name="introdução-e-estruturas-condicionais-com-java"> Introdução e Estruturas Condicionais com Java </a>
+
+
+
+
+
+
+
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
