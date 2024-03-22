@@ -29,7 +29,8 @@
     - [Sintaxe - Desafio](#sintaxe---desafio)
 - [Escopo e Estruturas de Controle em Java](#escopo-e-estruturas-de-controle-em-java)
     - [Introdução e Estruturas Condicionais com Java](#introdução-e-estruturas-condicionais-com-java) 
-      - [Estruturas Condicionais](#estruturas-condicionais)     
+      - [Estruturas Condicionais](#estruturas-condicionais)
+    - [Estruturas de Repetição em Java](#estruturas-de-repetição-em-java)
 - [Considerações Finais](#considerações-finais)
 - [Certificados](#certificados)
 - [Material de Apoio](#material-de-apoio)
@@ -409,6 +410,29 @@ No geral, foi uma jornada incrível de aprendizado. Aprendi não apenas sobre os
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
+
+### <a name="estruturas-de-repetição"> Estruturas de Repetição </a>
+
+Durante o curso de Didática em Java, mergulhei no mundo do controle de fluxo e estruturas de repetição na linguagem Java. Aprendi como utilizar esses conceitos para criar algoritmos mais eficientes e poderosos.
+
+Começamos entendendo o conceito por trás das estruturas de repetição, conhecidas como "loops", que nos permitem executar um bloco de código várias vezes até que uma condição específica seja atendida.
+
+Exploramos detalhadamente o [comando "for"](02-escopo-e-estruturas-de-controle/controle-flux/src/ExemploFor.java), uma das estruturas de repetição mais utilizadas em Java, que permite iterar sobre uma variável contadora até que uma condição seja verdadeira.
+
+Em seguida, aplicamos esse conhecimento em um exemplo prático, como a contagem de carneirinhos antes de dormir, para entender melhor como o comando "for" funciona na prática.
+
+Avançamos para o uso de estruturas de repetição com arrays em Java, aprendendo a percorrer um array e imprimir seus elementos usando o comando "for".
+
+Por fim, descobrimos como simplificar ainda mais a interação com arrays usando o ["foreach"](02-escopo-e-estruturas-de-controle/controle-flux/src/ExemploFor.java), uma maneira elegante e eficiente de percorrer os elementos de um array em Java.
+
+Além disso, durante o curso de Programação em Java, explorei o controle de fluxo em Java, focando nos comandos ["break" e "continue"](02-escopo-e-estruturas-de-controle/controle-flux/src/ExemploBreakContinue.java). O "break" interrompe imediatamente a execução de um laço de repetição, enquanto o "continue" pula para a próxima iteração.
+
+Utilizamos exemplos práticos, como a simulação de compras em uma [loja de doces](02-escopo-e-estruturas-de-controle/controle-flux/src/ExemploWhile.java), para entender o funcionamento desses comandos na prática.
+
+Ao final do curso, adquiri uma compreensão sólida sobre o uso de controle de fluxo e estruturas de repetição em Java, essenciais para escrever código eficiente e resolver problemas de forma eficaz. Estou animado para continuar praticando e explorando novos recursos para aprimorar minhas habilidades de programação em Java.
+
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 
 ## <a name="considerações-finais"> Considerações Finais </a>
 
