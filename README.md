@@ -31,6 +31,7 @@
     - [Introdução e Estruturas Condicionais com Java](#introdução-e-estruturas-condicionais-com-java) 
       - [Estruturas Condicionais](#estruturas-condicionais)
     - [Estruturas de Repetição em Java](#estruturas-de-repetição-em-java)
+    - [Java e Tratamento de Exceções](#java-e-tratamento-de-exceções)
 - [Considerações Finais](#considerações-finais)
 - [Certificados](#certificados)
 - [Material de Apoio](#material-de-apoio)
