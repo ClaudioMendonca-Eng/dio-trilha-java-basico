@@ -340,8 +340,7 @@ Ao finalizar a inserção de todos os dados solicitados, implementei a lógica p
 Essa prática me proporcionou uma compreensão mais sólida da sintaxe Java, além de me ajudar a desenvolver habilidades práticas na criação de programas interativos e na manipulação de dados através do terminal. Estou animado para aplicar esses conhecimentos em projetos futuros e continuar a aprimorar minhas habilidades de programação em Java.
 
 ```java
-import java.util.Scanner;
- /**
+/**
  * <h1>ContaTerminal</h1>
  * A classe ContaTerminal é responsável por gerenciar o cadastro de clientes bancários através do terminal.
  * <p>
@@ -351,17 +350,26 @@ import java.util.Scanner;
  * @version 1.0
  * @since   20/03/2024
  */
+import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         
         //TODO: Conhecer e importar a classe Scanner
         Scanner scanner = new Scanner(System.in);
+
+        System.out.println("==================================================\n" + //
+                        "░▒█▀▀▄░█▀▀▄░█▀▀▄░█▀▄░▄▀▀▄░░░░░░▒█░█▀▀▄░▄░░░▄░█▀▀▄\n" + //
+                        "░▒█▀▀▄░█▄▄█░█░▒█░█░░░█░░█░░░░░░▒█░█▄▄█░░█▄█░░█▄▄█\n" + //
+                        "░▒█▄▄█░▀░░▀░▀░░▀░▀▀▀░░▀▀░░░░▒█▄▄█░▀░░▀░░░▀░░░▀░░▀\n" + //
+                        "==================================================");
                 
         //TODO: Exibir mensagem para o nosso usuário
-        System.out.println("||| Seja bem vindo ao Banco JAVA :: CADASTRO DO CLIENTE |||");
+        System.out.println("||| Seja bem vindo! |||\n" + //
+                            "==================================================\n" + //
+                        ":: CADASTRO DO CLIENTE \n Preencha os campos abaixo para criar sua conta bancária.\n");
 
-        //TODO: Obter pelo scanner os valores digitados no terminal
+        // TODO: Obter pelo scanner os valores digitados no terminal
         System.out.println("Por favor, digite o número da Agência:");
         String agencia = scanner.nextLine();
 
@@ -374,11 +382,18 @@ public class ContaTerminal {
         System.out.println("Por favor, digite o saldo da conta:");
         double saldo = scanner.nextDouble();
 
-        //TODO: Exibir o mensagem da conta criada
-        System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + numero + " e seu saldo " + saldo + " já está disponível para saque.");
+        // TODO: Exibir o mensagem da conta criada
+        System.out.println("==================================================\n" + //
+                            "Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco:\n" + //
+                            "==================================================\n" + //                            
+                            "AGÊNCIA: " + agencia + " \n" + //
+                            "CONTA: " + numero + " \n" + // 
+                            "SALDO EM CONTA: " + saldo + " *Já está disponível para saque.\n" + //
+                            "==================================================");
 
     }
 }
+
 ```
 
 - Arquivo do [Sintaxe - Desafio: ContaTerminal.java](01-fundamentos-da-plataforma-java/ContaBanco/src/ContaTerminal.java)
