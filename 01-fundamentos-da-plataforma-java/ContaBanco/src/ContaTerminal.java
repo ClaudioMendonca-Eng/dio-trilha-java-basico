@@ -15,11 +15,19 @@ public class ContaTerminal {
         
         //TODO: Conhecer e importar a classe Scanner
         Scanner scanner = new Scanner(System.in);
+
+        System.out.println("==================================================\n" + //
+                        "░▒█▀▀▄░█▀▀▄░█▀▀▄░█▀▄░▄▀▀▄░░░░░░▒█░█▀▀▄░▄░░░▄░█▀▀▄\n" + //
+                        "░▒█▀▀▄░█▄▄█░█░▒█░█░░░█░░█░░░░░░▒█░█▄▄█░░█▄█░░█▄▄█\n" + //
+                        "░▒█▄▄█░▀░░▀░▀░░▀░▀▀▀░░▀▀░░░░▒█▄▄█░▀░░▀░░░▀░░░▀░░▀\n" + //
+                        "==================================================");
                 
         //TODO: Exibir mensagem para o nosso usuário
-        System.out.println("||| Seja bem vindo ao Banco JAVA :: CADASTRO DO CLIENTE |||");
+        System.out.println("||| Seja bem vindo! |||\n" + //
+                            "==================================================\n" + //
+                        ":: CADASTRO DO CLIENTE \n Preencha os campos abaixo para criar sua conta bancária.\n");
 
-        //TODO: Obter pelo scanner os valores digitados no terminal
+        // TODO: Obter pelo scanner os valores digitados no terminal
         System.out.println("Por favor, digite o número da Agência:");
         String agencia = scanner.nextLine();
 
@@ -32,8 +40,14 @@ public class ContaTerminal {
         System.out.println("Por favor, digite o saldo da conta:");
         double saldo = scanner.nextDouble();
 
-        //TODO: Exibir o mensagem da conta criada
-        System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + numero + " e seu saldo " + saldo + " já está disponível para saque.");
+        // TODO: Exibir o mensagem da conta criada
+        System.out.println("==================================================\n" + //
+                            "Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco:\n" + //
+                            "==================================================\n" + //                            
+                            "AGÊNCIA: " + agencia + " \n" + //
+                            "CONTA: " + numero + " \n" + // 
+                            "SALDO EM CONTA: " + saldo + " *Já está disponível para saque.\n" + //
+                            "==================================================");
 
     }
 }

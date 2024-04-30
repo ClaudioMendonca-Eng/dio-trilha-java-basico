@@ -3,6 +3,11 @@
 |:---:|:---:|
 | Participei da Formação Java Developer da DIO, onde aprendi desde os fundamentos de Java até o uso avançado do Spring Framework. A imersão inicial abrangeu os princípios da linguagem e a Programação Orientada a Objetos. | Nos módulos seguintes, aprofundei meu conhecimento e desenvolvi habilidades para projetos robustos. A formação incluiu desafios de código e projetos práticos para aplicar o aprendizado.|
 
+## Desafio da Sintaxe - Conta de Banco
+
+| ![App Screenshot](img/desafio_abertura_de_conta.gif) |
+|:---:|
+| - [Sintaxe - Desafio](#sintaxe---desafio) |
 
 ## Tecnologias
 <div>
